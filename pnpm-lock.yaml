@@ -2,11 +2,11 @@ lockfileVersion: 5.4
 
 specifiers:
   '@unocss/nuxt': ^0.50.0
-  listify-theme: ^0.0.6
+  listify-theme: ^0.0.7
   nuxt: ^3.2.2
 
 dependencies:
-  listify-theme: 0.0.6_nuxt@3.2.2
+  listify-theme: 0.0.7_nuxt@3.2.2
 
 devDependencies:
   '@unocss/nuxt': 0.50.1
@@ -3709,8 +3709,8 @@ packages:
       node-forge: 1.3.1
       ufo: 1.1.0
 
-  /listify-theme/0.0.6_nuxt@3.2.2:
-    resolution: {integrity: sha512-EOvADxPdgjFGhbtMxaHoHEzs+0nIKF1i9FpZ3Oo+z9qycj+2YMy3zx/ksZCGQ9KzOehP3x0dmX7EOlAA679ubg==}
+  /listify-theme/0.0.7_nuxt@3.2.2:
+    resolution: {integrity: sha512-lt0uBF/90uqJGV3CMt+RtbKh6+FdoDZt8aUyIePGOhZSL2UKDBl9LqseQLd0Sr/rA5j4gFynwOrzMjyZtm3k0g==}
     dependencies:
       '@nuxt-themes/typography': 0.8.3
       '@nuxt/content': 2.4.3

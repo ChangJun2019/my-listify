@@ -12,6 +12,6 @@
     "nuxt": "^3.2.2"
   },
   "dependencies": {
-    "listify-theme": "^0.0.6"
+    "listify-theme": "^0.0.7"
   }
 }
