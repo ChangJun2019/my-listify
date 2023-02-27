@@ -1,0 +1,15 @@
+frontmatter:
+  title: 2023 我看了什么
+  icon: ic:outline-movie-filter
+  description: 2023 我的观影、追剧
+listify:
+  - name: 《狂飙》
+    link: https://movie.douban.com/subject/35465232/
+  - name: 《满江红》
+    link: https://movie.douban.com/subject/35766491/
+  - name: 《去有风的地方》
+    link: https://movie.douban.com/subject/35662223/
+  - name: 《新世界：虚拟货币争霸战 신세계로부터》
+    link: https://movie.douban.com/subject/35525459/
+  - name: 《一人之下 第五季》
+    link: https://movie.douban.com/subject/35725021/

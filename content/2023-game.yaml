@@ -3,9 +3,13 @@ frontmatter:
   icon: ion:game-controller-outline
   description: 2023 我玩的游戏
 listify:
-  - name: 《塞尔达传：王国之泪》
+  - name: 《塞尔达传说：旷野之息》
     platform: 任天堂 Switch
-    link: https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/
-  - name: 《战神：诸神黄昏》
+    link: https://www.nintendo.com.hk/switch/zelda_botw/
+  - name: 《瑞奇与叮当：时空跳转》
     platform: 索尼 PS5
-    link: https://www.playstation.com/zh-hans-hk/games/god-of-war-ragnarok/
+    link: https://store.playstation.com/zh-hans-hk/product/HP9000-PPSA01476_00-RATCHETCLANKRIFT
+  - name: 《战神 4》
+    platform: 索尼 PS5
+    link: https://www.playstation.com/zh-hans-hk/editorial/this-month-on-playstation/the-playstation-guide-to-god-of-war/
+

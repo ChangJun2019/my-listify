@@ -1,0 +1,15 @@
+frontmatter:
+  title: 2023 我看的前端周刊
+  icon: icon-park-solid:web-page
+  description: 2023 我看的前端周刊
+listify:
+  - name: 《潮流周刊》
+    link: 'https://weekly.tw93.fun/'
+  - name: 《MDH Weekly》
+    link: 'https://mdhweekly.com/weekly'
+  - name: 《奇舞周刊》
+    link: 'https://weekly.75.team/'
+  - name: 《前端精度周刊》
+    link: 'https://github.com/ascoders/weekly'
+  - name: 《JavaScript Weekly Archives》
+    link: 'https://javascriptweekly.com/issues'
