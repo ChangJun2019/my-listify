@@ -8,10 +8,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@unocss/nuxt": "^0.50.0",
+    "listify-theme": "^0.0.7",
     "nuxt": "^3.2.2"
-  },
-  "dependencies": {
-    "listify-theme": "^0.0.7"
   }
 }
