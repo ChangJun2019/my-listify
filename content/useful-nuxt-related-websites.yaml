@@ -1,0 +1,14 @@
+frontmatter:
+  title: Useful Nuxt Related Websites
+  icon: logos:nuxt-icon
+  description: 一些对于使用 Nuxt 有帮助的网站
+listify:
+  - name: Nuxt Modules 
+    link: https://nuxt.com/modules
+  - name: Nuxt Config Schema
+    link: https://github.com/nuxt/nuxt/tree/main/packages/schema/src/config
+  - name: Nuxt API 
+    link: https://nuxt.com/docs/api/composables/use-app-config
+  - name: Nuxt Blog
+    link: https://nuxt.com/blog
+  
