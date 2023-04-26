@@ -8,7 +8,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "listify-theme": "^0.0.7",
-    "nuxt": "^3.2.2"
+    "listify-theme": "^0.0.9",
+    "nuxt": "^3.4.2"
   }
 }
